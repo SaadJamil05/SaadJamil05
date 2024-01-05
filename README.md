@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Python , Django**
-
 - 👯 I’m looking to collaborate on **Python Developer**
 
 - 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://codewithumar.netlify.app/)

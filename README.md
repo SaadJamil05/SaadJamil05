@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umar792" alt="umar792" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Python , Node , Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Python Developer**
+- 👯 I’m looking to collaborate on **New Projects**
 
-- 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://codewithumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://saad-jamil.netlify.app/)
 
 - 💬 Ask me about **React.js , Node.js ,Next.js ,Python , TypeScript**
 
-- 📫 How to reach me **ua46792@gmail.com**
+- 📫 How to reach me **Saad.jamil@siliconwhiz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

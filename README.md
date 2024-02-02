@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://saad-jamil.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saad-jamil.netlify.app/](https://saad-jamil.netlify.app/)
 
 - 💬 Ask me about **React.js , Node.js ,Next.js ,Python , TypeScript**
 

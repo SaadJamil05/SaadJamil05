@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working on **Python , Node , Artificial Intelligence**
+- 🔭 I’m currently working on **Python , Node , Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **New Projects**
 

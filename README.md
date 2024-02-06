@@ -3,6 +3,7 @@
 <h2 align="center">Experienced 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 proficient in 𝐋𝐚𝐫𝐚𝐯𝐞𝐥, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐣𝐐𝐮𝐞𝐫𝐲, 𝐑𝐞𝐚𝐜𝐭, 𝐚𝐧𝐝 𝐕𝐮𝐞. Skilled in building 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐀𝐏𝐈𝐬, 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. Strong problem-solving abilities and familiarity with Agile methodologies.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaadJamil05&label=Profile%20views&color=0e75b6&style=flat" alt="SaadJamil05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaadJamil05&label=Profile%20views&color=0e75b6&style=flat" alt="SaadJamil05" /> </p>
 
 
 - 🔭 I’m currently working on **Python , Node , Artificial Intelligence**

@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on ** , Node , Next , React, Php**
 
 - 👯 I’m looking to collaborate on **New Projects**
-- 👯 I’m looking to collaborate on **New Projects**
 
 - 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://codewithumar.netlify.app/)
 

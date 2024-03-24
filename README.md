@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://codewithumar.netlify.app/](https://codewithumar.netlify.app/)
 
 - 💬 Ask me about **React.js , Node.js ,Next.js  , React.js,**
+- 💬 Ask me about **React.js , Node.js ,Next.js  , React.js,**
 
 
 <h3 align="left">Connect with me:</h3>
